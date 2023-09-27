@@ -30,6 +30,6 @@ This project is not open-source and is the intellectual property of Rafay Khan. 
 
 ## Contact
 
-If you have any questions or need to get in touch with Rafay Khan regarding the Two Good Co website, you can contact him via email at [your@email.com](rafaykhan2k19@gmail.com).
+If you have any questions or need to get in touch with Rafay Khan regarding the Two Good Co website, you can contact him via email at [rafaykhan2k19@gmail.com].
 
 ---
