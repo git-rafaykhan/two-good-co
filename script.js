@@ -1,3 +1,5 @@
+//playbtn animation
+
 function videoplaybtn(){
     let video = document.querySelector("#video-container")
     let playbtn = document.querySelector("#playbtn")
@@ -23,7 +25,7 @@ video.addEventListener("mousemove", function(dets){
 }
 videoplaybtn()
 
-// end of play btn animation
+//page loader animation
 
 function pageplayanimation() {
     gsap.from("#page1 h1", {
@@ -42,16 +44,15 @@ function pageplayanimation() {
 }
 pageplayanimation()
 
-// end of page animation
 
-// start of locomotive js
+//locomotive js
 
 const scroll = new LocomotiveScroll({
     el: document.querySelector('#main'),
     smooth: true
 });
 
-// cursor
+// box curosr animation
 function cursoranimation(){
     document.addEventListener('mousemove', function(dets){
         gsap.to('#cursor', {
